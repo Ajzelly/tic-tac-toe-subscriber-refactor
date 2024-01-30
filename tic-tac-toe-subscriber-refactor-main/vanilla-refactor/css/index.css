@@ -79,7 +79,7 @@ button:hover {
   grid-column-start: 1;
   grid-column-end: 3;
   align-self: center;
-
+  
   display: flex;
   align-items: center;
   gap: 20px;
